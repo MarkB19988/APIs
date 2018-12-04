@@ -10,5 +10,5 @@ When implementing an API, you must be very careful only to expose what is necess
 ### What is an SDK?
 An SDK is a set of tools that can be used to develop software applications targeting a specific platform. SDKs include tools, libraries, documentation and sample code that would help a programmer to develop an application. A well know SDK is the Java SDK (JDK). This includes libraries, debugging facilities and other tools which can make writing programs much easier in Java. SDKs allow developers to write code and create programs much more efficiently since there is no need to look for components that are compatible with each other and all of them are placed into a single package that is easy to install.
 
-### How are APIs and SDKs related]
+### The Relationship Between APIs and SDKs
 An API is an interface that allows programs to interact with each other, whereas a SDK is a set of tools that can be used to develop software applications for a specific platform. The simplest version of a SDK could be an API or a collection of APIs.This is because APIs are designed to provide specific functions and an SDK can combine APIs to have a large number of functions for the purpose of software development. However this is not true in reverse. An SDK can never be an API as it is the SDK that relies on the APIs.
